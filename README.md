@@ -56,7 +56,9 @@ The highest spend order was ID 440. The specific items that were purchased can b
 <br/>
 
 **BONUS: View the details of the top 5 highest spend orders<br/>**
-The details of the top 5 highest spend orders can be easily seen in the SQL file, but I have included a screenshot of one of the query results in this readme.<br/>
+The details of the top 5 highest spend orders can be easily seen in the SQL file, but I have included a screenshot of one of the query results in this readme as well as a SELECT statement, since the query result is too big to fit in 1 screenshot.<br/>
+![image](https://github.com/user-attachments/assets/3d2c379b-2176-4612-9262-3f7c9f797bc2)<br/>
+<br/>
 ![image](https://github.com/user-attachments/assets/2f6424c2-1079-4b65-811d-4a8cab7b5662)<br/>
 This image looks at how many of each category was bought in total by the top 5 spends <br/>
 <br/>

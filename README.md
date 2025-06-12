@@ -1,4 +1,4 @@
-This analysis looks at a fictional restaurant's database and asks to answer customer behavior and operatioal questions such as popularity of food categories/menu items and the highest spends. This analysis was done through SQL queries in PostgreSQL, and each objective has its own query page in this repository. </br>
+This analysis looks at a fictional restaurant's database and asks to answer customer behavior and operatioal questions such as popularity of food categories/menu items and the highest spends. This analysis was done through SQL queries in PostgreSQL, and each objective has its own query page in this repository. I have tried to include images in the readme for specific questions. </br>
 <br/>
 This project was categorized into 3 objectives: <br/>
 1. Exploring the items table
@@ -21,15 +21,15 @@ There are 4 categories of food (American, Asian, Mexican, and Italian) and in ea
 <br/>
 For Objective 2 there were 4 questions to answer.<br/>
 <br/>
-**What is the date range of the table?**<br/>
+**What is the date range of the table?<br/>**
 The table ranges from January 1, 2023 to March 31, 2023<br/>
 <br/>
 
-**How many orders were made within this date range? How many items were ordered within this date range?**<br/>
+**How many orders were made within this date range? How many items were ordered within this date range?<br/>**
 The amount of orders and items ordered within this date range are 5370 and 12234 respectively.<br/>
 <br/>
 
-**Which orders had the most number of items?**<br/>
+**Which orders had the most number of items?<br/>**
 This question can be more easily seen in the sql file, but the order numbers with the most items (14) were orders 4305, 3473, 1957, 330, 440, 443, and 2675.<br/>
 <br/>
 
@@ -42,9 +42,14 @@ For Objective 3, there were 3 questions with a bonus analysis opportunity at the
 **What were the least and most ordered items? What categories were they in?<br/>**
 The least ordered item was the chicken tacos from the Mexican category, and the most ordered item was the hamburgers from the American category. <br/>
 <br/>
+
 **What were the top 5 orders that spent the most money?<br/>**
 The top 5 order IDs were 440, 2075, 1957, 330, and 2675, all totaling above $160.00.<br/>
 <br/>
-**View the details of the highest spend order. Which specific items were purchased?<br/>**
 
-BONUS: View the details of the top 5 highest spend orders
+**View the details of the highest spend order. Which specific items were purchased?<br/>**
+The highest spend order was ID 440. The specific items that were purchased can be seen below, and it seems that the category that was ordered the most was Italian, with 8 dishes.</br>
+<br/>
+
+**BONUS: View the details of the top 5 highest spend orders<br/>**
+The details of the top 5 highest spend orders can be easily seen in the SQL file, but I have included a few screenshots of the query in this readme.

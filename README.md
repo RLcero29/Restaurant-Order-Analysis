@@ -45,12 +45,20 @@ The least ordered item was the chicken tacos from the Mexican category, and the 
 <br/>
 
 **2. What were the top 5 orders that spent the most money?<br/>**
-The top 5 order IDs were 440, 2075, 1957, 330, and 2675, all totaling above $160.00.<br/>
+The top 5 order IDs were 440, 2075, 1957, 330, and 2675.<br/>
+![image](https://github.com/user-attachments/assets/a5318d09-add2-4ed8-a819-11b4d4642043)<br/>
 <br/>
 
 **3. View the details of the highest spend order. Which specific items were purchased?<br/>**
 The highest spend order was ID 440. The specific items that were purchased can be seen below, and it seems that the category that was ordered the most was Italian, with 8 dishes.</br>
+![image](https://github.com/user-attachments/assets/868a0f30-b5a5-461b-aeba-59d5b9cb0815)<br/>
+![image](https://github.com/user-attachments/assets/7e0a6f31-f6b0-4bfe-878f-45ca8ae2619c)<br/>
 <br/>
 
 **BONUS: View the details of the top 5 highest spend orders<br/>**
-The details of the top 5 highest spend orders can be easily seen in the SQL file, but I have included a few screenshots of the query in this readme.
+The details of the top 5 highest spend orders can be easily seen in the SQL file, but I have included a screenshot of one of the query results in this readme.<br/>
+![image](https://github.com/user-attachments/assets/2f6424c2-1079-4b65-811d-4a8cab7b5662)<br/>
+This image looks at how many of each category was bought in total by the top 5 spends <br/>
+<br/>
+
+

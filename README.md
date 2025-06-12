@@ -37,12 +37,14 @@ This question can be more easily seen in the sql file, but the order numbers wit
 20 orders had more than 12 items.<br/>
 <br/>
 <br/>
-For objective 3, there were 4 questions. <br/>
+For Objective 3, there were 3 questions with a bonus analysis opportunity at the end. <br/>
 <br/>
-What were the least and most ordered items? What categories were they in?
-
-What were the top 5 orders that spent the most money?
-
-View the details of the highest spend order. Which specific items were purchased?
+**What were the least and most ordered items? What categories were they in?<br/>**
+The least ordered item was the chicken tacos from the Mexican category, and the most ordered item was the hamburgers from the American category. <br/>
+<br/>
+**What were the top 5 orders that spent the most money?<br/>**
+The top 5 order IDs were 440, 2075, 1957, 330, and 2675, all totaling above $160.00.<br/>
+<br/>
+**View the details of the highest spend order. Which specific items were purchased?<br/>**
 
 BONUS: View the details of the top 5 highest spend orders

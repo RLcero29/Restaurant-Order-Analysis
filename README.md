@@ -4,6 +4,7 @@ This project was categorized into 3 objectives: <br/>
 1. Exploring the items table
 2. Exploring the orders table
 3. Analyzing Customer Behavior<br/>
+<br/>
 Within each objective, there were questions to answer.<br/>
 <br/>
 For Objective 1 there were 3 questions to answer: <br/>

@@ -31,6 +31,7 @@ The amount of orders and items ordered within this date range are 5370 and 12234
 
 **3. Which orders had the most number of items?<br/>**
 This question can be more easily seen in the sql file, but the order numbers with the most items (14) were orders 4305, 3473, 1957, 330, 440, 443, and 2675.<br/>
+![image](https://github.com/user-attachments/assets/a92fdc6b-1cea-46af-a14a-e0d6c65abc29)<br/>
 <br/>
 
 **4. How many orders had more than 12 items?**<br/>

@@ -3,7 +3,7 @@ This analysis looks at a fictional restaurant's database and asks to answer cust
 This project was categorized into 3 objectives: <br/>
 1. Exploring the items table
 2. Exploring the orders table
-3. Analyzing Customer Behavior <br/>
+3. Analyzing Customer Behavior<br/>
 Within each objective, there were questions to answer. <br/>
 <br/>
 For Objective 1 there were 3 questions to answer: <br/>
@@ -20,7 +20,6 @@ There are 4 categories of food (American, Asian, Mexican, and Italian) and in ea
 For Objective 2 there were 4 questions to answer.<br/>
 <br/>
 What is the date range of the table?<br/>
-
 
 How many orders were made within this date range? How many items were ordered within this date range?<br/>
 

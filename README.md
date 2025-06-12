@@ -12,7 +12,7 @@ For Objective 1 there were 3 questions to answer: <br/>
 **What are the least and most expensive items on the menu?<br/>**
 The least expensive item on the menu was the edamame at $5.00, while the most expensive item was the shrimp scampi at $19.95.<br/>
 <br/>
-**How many Italian dishes are on the menu? What are the least and most expensive Italian dishes on the menu?**<br/>
+**How many Italian dishes are on the menu? What are the least and most expensive Italian dishes on the menu?<br/>**
 There are 9 Italian dishes on the menu with the least and most expensive Italian dishes being spaghetti at $14.50 and shrimp scampi at $19.95 respectively.<br/>
 <br/>
 **How many dishes are in each category? What is the average dish price within each category?<br/>**
